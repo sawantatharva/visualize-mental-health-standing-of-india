@@ -4,6 +4,6 @@
 - Discovered Schizophrenia & ADHD as the most common in age groups — 20-24 yrs & 10-14 yrs respectively. 
 - Tools Used: Python, numpy, plotly
 
-- Due to some unknown circumstances, thecode for data analytics model, we lost it, but you can find renderings of the model in the Final Draft of the Analysis, which is present on repo.
+- Due to unknown circumstances, we lost the code for the data analytics model, but renderings of the model can be found in the Final Draft of the Analysis, which is available on the repository. Sorry for the inconvenience.
 
 Thanks!
